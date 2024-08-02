@@ -1,0 +1,87 @@
+.reviews{
+    padding-top: 276px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.reviews>h4{
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    letter-spacing: 0.5px;
+    color: #273720;
+}
+
+.reviews>h1{
+    margin: 6px 0 24px;
+    font-size: 73px;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: 1px;
+    color: #273720;
+}
+
+.reviews>p{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.button_learn_more{
+    width: 144px;
+    height: 54px;
+    border-radius: 6px;
+    background-color: #42AE60;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button_learn_more>p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #FFFFFF;
+}
+
+.container_for_reviews_and_more_info{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 169px;
+}
+
+.link_for_mopre_info{
+    margin: 87px 86px 0 0 ;
+}
+
+.link_for_mopre_info>hr{
+    width: 470px;
+    margin: 0;
+    color: #273720;
+}
+
+.link_for_mopre_info>p{
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 38.4px;
+    color: #222222;
+}
+
+.link_for_mopre_info p:nth-child(2){
+    margin: 24px 0 25px;
+}
+
+.link_for_mopre_info p:nth-child(4){
+    width: 400px;
+    margin: 22px 0 25px;
+}
+
+.link_for_mopre_info p:nth-child(6){
+    margin: 22px 0 25px;
+}
+

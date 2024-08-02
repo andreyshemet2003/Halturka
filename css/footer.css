@@ -1,0 +1,35 @@
+footer{
+    background-color: #273720;
+    display: flex;
+    padding: 128px 60px 156px;
+    justify-content: space-around;
+    color: #FAF8F7;
+    align-items: flex-start;
+}
+
+.footer_h3{
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 38.4px;
+}
+
+.container_with_list{
+    display: flex;
+    justify-content: space-around;
+    width: 642px;
+}
+
+.container_with_list>div>p{
+    font-size: 17px;
+    line-height: 25.2px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.img_footer_container{
+    margin-top: 15px;
+}
+
+.img_footer_container img:nth-child(1){
+    margin-right: 40px;
+}

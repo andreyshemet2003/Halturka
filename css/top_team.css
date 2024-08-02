@@ -1,0 +1,57 @@
+.top_team{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #273720;
+    padding: 119px 0 128px;
+}
+
+.top_team>h1{
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: 1px;
+    color: #FAF8F7;
+}
+
+.review{
+    width: 864px;
+    height: 448px;
+    gap: 0px;
+    border-radius: 40px;
+    opacity: 0px;
+    background-color: #D2EBD5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 57px 0 32px;
+}
+
+.review>h3{
+    width: 700px;
+    height: 154px;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    text-align: center;
+    color: #273720;
+    margin: 31px 0 47px;
+}
+
+.container_with_director{
+    display: flex;
+    align-items: center;
+}
+
+.container_with_director>p{
+    margin-left: 24px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    color: #273720;
+}
+
+.container_with_arrow img:nth-child(1){
+    margin-right: 16px;
+}
